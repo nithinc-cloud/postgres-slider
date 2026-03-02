@@ -39,4 +39,4 @@ properties:
     POSTGRESQL_REP_USER: replica
     POSTGRESQL_SLIDER_PASSWORD:
           vault: POSTGRESQL_SLIDER_PASSWORD
-    revision : 4
+    revision : 5
