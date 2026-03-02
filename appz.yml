@@ -11,7 +11,7 @@ build:
     image_template: postgres_master-13.3
     
 deploy:
-    context: appz-coder/DEV
+    context: nithinc-cloud/DEV
     type: statefulset
     ingress: none
     resources: large
